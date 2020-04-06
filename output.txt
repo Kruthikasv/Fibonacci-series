@@ -1,0 +1,39 @@
+Microsoft Windows [Version 10.0.18362.720]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\Users\Ashwini>cd C:\Users\Ashwini\PycharmProjects\1
+
+C:\Users\Ashwini\PycharmProjects\1>python fib.py 0
+0
+
+C:\Users\Ashwini\PycharmProjects\1>python fib.py 1
+1
+
+C:\Users\Ashwini\PycharmProjects\1>python fib.py 2
+1.0
+
+C:\Users\Ashwini\PycharmProjects\1>python fib.py 3
+2.0
+
+C:\Users\Ashwini\PycharmProjects\1>python fib.py 4
+3.0
+
+C:\Users\Ashwini\PycharmProjects\1>python fib.py 5
+5.0
+
+C:\Users\Ashwini\PycharmProjects\1>python fib.py 6
+8.0
+
+C:\Users\Ashwini\PycharmProjects\1>python fib.py 7
+13.0
+
+C:\Users\Ashwini\PycharmProjects\1>python fib.py 8
+21.0
+
+C:\Users\Ashwini\PycharmProjects\1>python fib.py 9
+34.0
+
+C:\Users\Ashwini\PycharmProjects\1>python fib.py 10
+55.0
+
+C:\Users\Ashwini\PycharmProjects\1>
